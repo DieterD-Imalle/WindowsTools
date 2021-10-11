@@ -2,7 +2,7 @@
 ## Notepad
 - locatie: `c:\windows\notepad.exe`
 - doel: teksteditor
--...
+- ...
 
 ## Wordpad
 - locatie: `c:\windows\write.exe`
