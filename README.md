@@ -1,34 +1,42 @@
 # GUI-TOOLS
-## Notepad
+## notepad
 - locatie: `c:\windows\notepad.exe`
 - doel: teksteditor
 
-## Wordpad
+## wordpad
 - locatie: `c:\windows\write.exe`
 - doel: tekstopmaak editor
 
-## Regedit.exe
+## regedit.exe
 - locatie: `c:\windows\write.exe`
 - doel: bewerkingsprogramma voor windows
 
-## Scherm toetsenbord
+## scherm toetsenbord
 - locatie: `c:\windows\system32\osk.exe`
 - doel: Toetsenbord vervangen 
 
-## Rekenmachine
+## rekenmachine
 - locatie: `c\windows\system32\calc.exe`
 - doel: rekenmachine
 
 
 # CLI-TOOLS
 ## winver
-- locatie
-- doel
+- command: `winver`
+- doel: versie van windows weergeven
 
 ## ip config
-- locatie
-- doel
+- command: `winver`
+- doel: netwerk info geven
 
 ## ns lookup
-- locatie
-- doel
+- command: `nslookup`
+- doel: testen van internet en pings met servers
+
+## get-command
+- command: `get-command`
+- doel: geeft lijst mogelijke commands
+
+## get-help
+- command: `get-command`
+- doel: geeft info over commandlines
